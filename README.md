@@ -1,5 +1,7 @@
-Source Data for our paper on Integrated Energy System Restoration Under Incomplete Information
+Source Data for our paper on Integrated Energy System Restoration Under Incomplete Information.
 
-The data on 13-bus-7-node case and 123-bus-20-node case are inspired by [1], with modifications.
+The test case data for the 13-bus-7-node and 123-bus-20-node systems are adapted from [1], with modifications to suit the context of this study.
 
-[1] Lin, Y., Chen, B., Wang, J., & Bie, Z. (2019). A combined repair crew dispatch problem for resilient electric and natural gas system considering reconfiguration and DG islanding. IEEE Transactions on Power Systems, 34(4), 2755-2767.
+Reference:
+[1] Lin, Y., Chen, B., Wang, J., & Bie, Z. (2019). A combined repair crew dispatch problem for resilient electric and natural gas system considering reconfiguration and DG islanding. IEEE Transactions on Power Systems, 34(4), 2755–2767.
+
